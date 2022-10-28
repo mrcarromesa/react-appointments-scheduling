@@ -1,0 +1,29 @@
+.customButton {
+  background-color: var(--color-blue-100);
+  border: none;
+  color: var(--color-white);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+  &.success {
+    background-color: var(--color-green-500);
+  }
+  
+  &.danger {
+    background-color: var(--color-red-500);
+  }
+
+  &.neutral {
+    background-color: var(--color-gray-50);
+    color: var(--color-gray-750);
+  }
+
+  &.dark {
+    background-color: var(--color-gray-750);
+  }
+}
