@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-appointments-scheduling/static/css/main.55597982.css",
+    "main.js": "/react-appointments-scheduling/static/js/main.f853eab3.js",
+    "index.html": "/react-appointments-scheduling/index.html",
+    "main.55597982.css.map": "/react-appointments-scheduling/static/css/main.55597982.css.map",
+    "main.f853eab3.js.map": "/react-appointments-scheduling/static/js/main.f853eab3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55597982.css",
+    "static/js/main.f853eab3.js"
+  ]
+}
